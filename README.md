@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm web developer</h1>
+<h1 align="center">Hi 👋, I'm Antu a full-stack web developer</h1>
 <h3 align="center">A passionate stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulantu&label=Profile%20views&color=0e75b6&style=flat" alt="paulantu" /> </p>
