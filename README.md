@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulantu" alt="paulantu" /></a> </p>
 
-- 🔭 I’m currently working on [multi vendor e-commerce](https://github.com/paulantu/multivendor-e-commerce)
+- 🔭 I’m currently working on [seopage1](https://github.com/paulantu/SEOPage1-projects)
 
-- 🌱 I’m currently learning **Javascript and laravel**
+- 🌱 I’m currently learning **Javascript and PHP**
 
-- 💬 Ask me about **laravel**
+- 💬 Ask me about **Wordpress, Elementor, ACF/SCF**
 
 - 📫 How to reach me **antupaul81@gmail.com**
 
