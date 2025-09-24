@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulantu" alt="paulantu" /></a> </p>
 
-- 🔭 I’m currently working on [seopage1](https://github.com/paulantu/SEOPage1-projects)
+- 🔭 I’m currently working on [Greenosoft](https://github.com/paulantu/Greenosoft-projects)
 
 - 🌱 I’m currently learning **Javascript and PHP**
 
